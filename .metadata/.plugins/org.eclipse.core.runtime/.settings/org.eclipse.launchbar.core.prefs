@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:testLED,org.eclipse.launchbar.core.descriptorType.default\:test,org.eclipse.launchbar.core.descriptorType.default\:class2,org.eclipse.launchbar.core.descriptorType.default\:class2_1,org.eclipse.launchbar.core.descriptorType.default\:class4_1,org.eclipse.launchbar.core.descriptorType.default\:class4_2,org.eclipse.launchbar.core.descriptorType.default\:class4_3,org.eclipse.launchbar.core.descriptorType.default\:class2_2,org.eclipse.launchbar.core.descriptorType.default\:class3_0,org.eclipse.launchbar.core.descriptorType.default\:class3_1,org.eclipse.launchbar.core.descriptorType.default\:class5_0
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:class1/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:class1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:class2/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:class2/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:test/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:test/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
